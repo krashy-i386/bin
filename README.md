@@ -30,8 +30,8 @@ Positional Arguments:
 
 Options:
   --buffer-size     maximum amount of pastes to store before rotating (default:
-                    1000)
-  --max-paste-size  maximum paste size in bytes (default. 32kB)
+                    150)
+  --max-paste-size  maximum paste size in bytes (default. 512kB)
   --help            display usage information
 ```
 
